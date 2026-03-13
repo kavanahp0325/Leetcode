@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kavanahp0325/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/kavanahp0325/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/kavanahp0325/Leetcode/tree/master/1025-divisor-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/kavanahp0325/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/kavanahp0325/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kavanahp0325/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Geometry
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kavanahp0325/Leetcode/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/kavanahp0325/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Number Theory
 |  |
 | ------- |
