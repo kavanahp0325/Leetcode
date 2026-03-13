@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/kavanahp0325/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/kavanahp0325/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kavanahp0325/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/kavanahp0325/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/kavanahp0325/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 ## Geometry
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kavanahp0325/Leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/kavanahp0325/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Greedy
+|  |
+| ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/kavanahp0325/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
