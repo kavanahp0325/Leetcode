@@ -4,10 +4,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/kavanahp0325/Leetcode/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/kavanahp0325/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kavanahp0325/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Geometry
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kavanahp0325/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kavanahp0325/Leetcode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kavanahp0325/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kavanahp0325/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
