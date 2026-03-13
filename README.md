@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/kavanahp0325/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/kavanahp0325/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kavanahp0325/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2651-calculate-delayed-arrival-time](https://github.com/kavanahp0325/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 ## Geometry
 |  |
 | ------- |
