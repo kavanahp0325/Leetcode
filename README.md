@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2600-k-items-with-the-maximum-sum](https://github.com/kavanahp0325/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kavanahp0325/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kavanahp0325/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
