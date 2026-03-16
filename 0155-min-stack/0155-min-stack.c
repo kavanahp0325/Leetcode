@@ -1,39 +1,82 @@
+
+typedef struct node {
+
+    int data;
+    struct node *next;
+    struct node *prevMin;
+
+} Node;
+
 typedef struct {
-    int s[30001];
-    int idx;
-    int min;
+
+    struct node *top1;
+    struct node *top2;  
 } MinStack;
 
+
 MinStack* minStackCreate() {
-    MinStack *new = calloc(1, sizeof(MinStack));
-    new->idx = 0;
-    new->min = INT_MAX;
-    return new;
+
+    MinStack *stack = (MinStack *) malloc(sizeof(MinStack));
+
+    stack->top1 = NULL;
+    stack->top2 = NULL;
+
+    return stack;
+    
 }
 
 void minStackPush(MinStack* obj, int val) {
-    if (val <= obj->min) {
-        obj->s[obj->idx++] = obj->min;
-        obj->min = val;
+
+    Node *newNode = (Node *) malloc(sizeof(Node));
+    newNode->data = val;
+    newNode->next = obj->top1;
+    newNode->prevMin = NULL;
+    obj->top1 = newNode;
+
+    if(obj->top2 == NULL || obj->top2->data > val)
+    {
+        newNode->prevMin = obj->top2;
+        obj->top2 = newNode;
     }
-    obj->s[obj->idx++] = val;
+    
 }
 
 void minStackPop(MinStack* obj) {
-    if (obj->s[--obj->idx] == obj->min)
-        obj->min = obj->s[--obj->idx];
+
+    Node *deletedNode = obj->top1;
+
+    if(obj->top1 == obj->top2)
+        obj->top2 = obj->top2->prevMin;
+
+    obj->top1 = obj->top1->next;
+    free(deletedNode);
+    
 }
 
 int minStackTop(MinStack* obj) {
-    return obj->s[obj->idx - 1];
+
+    return obj->top1->data;
+    
 }
 
 int minStackGetMin(MinStack* obj) {
-    return obj->min;     
+
+    return obj->top2->data;
+    
 }
 
 void minStackFree(MinStack* obj) {
-    free(obj); 
+
+    Node *deletedNode;
+
+    while(obj->top1)
+    {
+        deletedNode = obj->top1;
+        obj->top1 = obj->top1->next;
+        free(deletedNode);
+    }
+    
+    obj->top2 = NULL;
 }
 
 /**
