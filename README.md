@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kavanahp0325/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/kavanahp0325/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/kavanahp0325/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kavanahp0325/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/kavanahp0325/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Linked List
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/kavanahp0325/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kavanahp0325/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kavanahp0325/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
