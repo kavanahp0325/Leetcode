@@ -71,12 +71,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/kavanahp0325/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/kavanahp0325/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/kavanahp0325/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/kavanahp0325/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/kavanahp0325/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/kavanahp0325/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
