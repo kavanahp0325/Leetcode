@@ -10,7 +10,8 @@ typedef struct node {
 typedef struct {
 
     struct node *top1;
-    struct node *top2;  
+    struct node *top2;  /// to maintain min values in order
+    
 } MinStack;
 
 
@@ -78,6 +79,20 @@ void minStackFree(MinStack* obj) {
     
     obj->top2 = NULL;
 }
+
+/**
+ * Your MinStack struct will be instantiated and called as such:
+ * MinStack* obj = minStackCreate();
+ * minStackPush(obj, val);
+ 
+ * minStackPop(obj);
+ 
+ * int param_3 = minStackTop(obj);
+ 
+ * int param_4 = minStackGetMin(obj);
+ 
+ * minStackFree(obj);
+*/
 
 /**
  * Your MinStack struct will be instantiated and called as such:
