@@ -67,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kavanahp0325/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Array
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/kavanahp0325/Leetcode/tree/master/0905-sort-array-by-parity) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/kavanahp0325/Leetcode/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/kavanahp0325/Leetcode/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
