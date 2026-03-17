@@ -1,23 +1,33 @@
-int calPoints(char** operations, int operationsSize) {
-    int *record=(int *)malloc(sizeof(int)*operationsSize);
-    int s=0,index=0;
-    for(int i=0;i<operationsSize;i++){
-        if(strcmp(operations[i],"C")==0){
-            record[index-1]=0;
-            index--;
-        }
-        else if(strcmp(operations[i],"D")==0){
-            record[index++]=record[index-1]*2;
-        }
-        else if(strcmp(operations[i],"+")==0){
-            record[index++]=record[index-1]+record[index-2];
-        }
-        else{
-            record[index++]=atoi(operations[i]);
+int calPoints(char ** operations, int operationsSize){
+    
+    int* arry = (int*) calloc(operationsSize,sizeof(int));
+    int curr = 0;
+    int sum = 0;
+    
+    for(int i = 0; i < operationsSize; ++i)
+    {
+        switch(*(*(operations+i)))
+        {
+            case 'C':
+                *(arry + (--curr)) = 0;
+                break;
+            case 'D':
+                *(arry + (curr++)) = *(arry + curr - 1) * 2;
+                break;
+            case '+':
+                *(arry + (curr++)) = *(arry + curr - 1) + *(arry + curr - 2);
+                break;
+            default:
+                *(arry + (curr++)) = atoi(*(operations+i));
+                break;
         }
     }
-    for(int i=0;i<index;i++){
-        s+=record[i];
+    
+    for(int i = 0; i < operationsSize; ++i)
+    {
+        sum += arry[i];
     }
-    return s;
+    
+    free(arry);
+    return sum;
 }
