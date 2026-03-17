@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kavanahp0325/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/kavanahp0325/Leetcode/tree/master/0283-move-zeroes) |
 | [0622-design-circular-queue](https://github.com/kavanahp0325/Leetcode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/kavanahp0325/Leetcode/tree/master/0682-baseball-game) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kavanahp0325/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/kavanahp0325/Leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/kavanahp0325/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kavanahp0325/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kavanahp0325/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/kavanahp0325/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kavanahp0325/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kavanahp0325/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
