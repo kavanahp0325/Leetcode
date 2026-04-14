@@ -2,5 +2,11 @@
 SELECT customer_number
 FROM Orders
 GROUP BY customer_number
-ORDER BY COUNT(order_number) DESC
-LIMIT 1;
+HAVING COUNT(order_number) = (
+    SELECT MAX(order_count)
+    FROM (
+        SELECT COUNT(*) AS order_count
+        FROM Orders
+        GROUP BY customer_number
+    ) AS temp
+);
