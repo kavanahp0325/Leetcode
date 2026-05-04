@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kavanahp0325/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kavanahp0325/Leetcode/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/kavanahp0325/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/kavanahp0325/Leetcode/tree/master/0292-nim-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kavanahp0325/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/kavanahp0325/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kavanahp0325/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/kavanahp0325/Leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kavanahp0325/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/kavanahp0325/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/kavanahp0325/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Array
