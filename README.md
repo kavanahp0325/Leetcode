@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/kavanahp0325/Leetcode/tree/master/1025-divisor-game) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/kavanahp0325/Leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Brainteaser
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/kavanahp0325/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kavanahp0325/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kavanahp0325/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/kavanahp0325/Leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kavanahp0325/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/kavanahp0325/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/kavanahp0325/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/kavanahp0325/Leetcode/tree/master/0620-not-boring-movies) |
+## Hash Table
+|  |
+| ------- |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/kavanahp0325/Leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 <!---LeetCode Topics End-->
